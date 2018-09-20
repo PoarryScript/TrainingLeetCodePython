@@ -1,0 +1,2 @@
+# TrainingLeetCodePython
+leetcode by Python
